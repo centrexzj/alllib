@@ -1,0 +1,11 @@
+http://58.144.231.51:40568/announce
+
+udp://58.144.231.51:40568/announce
+
+http://vpsremote.7766.org:13003/announce
+
+udp://vpsremote.7766.org:13003/announce
+
+http://aikuai.eatuo.com:13003/announce
+
+udp://aikuai.eatuo.com:13003/announce
