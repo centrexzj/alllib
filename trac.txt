@@ -9,3 +9,11 @@ udp://vpsremote.7766.org:13003/announce
 http://aikuai.eatuo.com:13003/announce
 
 udp://aikuai.eatuo.com:13003/announce
+
+http://45.32.66.51:6969/announce
+
+udp://45.32.66.51:6969/announce
+
+http://23.247.129.37:6969/announce
+
+udp://23.247.129.37:6969/announce
